@@ -22,7 +22,7 @@ This repository contains a web scraping project that extracts data from the IMDB
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/imdb-top-250-scraper.git
+   git clone https://github.com/pranaytelukuntla/imdb-top-250-scraper.git
    cd imdb-top-250-scraper
    
 ## Requirements Installation:
